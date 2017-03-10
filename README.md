@@ -1,2 +1,3 @@
-# Linear_Control_Systems
-Codes are written within the scope of the  Linear Control Systems
+# Observer_Controller
+Full-order observer and minumum-order observer
+Solution pdf file includes steps of the solution
